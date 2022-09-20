@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hd_spa/static/css/main.4803553c.css",
+    "main.js": "/hd_spa/static/js/main.cb13023d.js",
+    "index.html": "/hd_spa/index.html",
+    "main.4803553c.css.map": "/hd_spa/static/css/main.4803553c.css.map",
+    "main.cb13023d.js.map": "/hd_spa/static/js/main.cb13023d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4803553c.css",
+    "static/js/main.cb13023d.js"
+  ]
+}
