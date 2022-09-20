@@ -1,0 +1,20 @@
+// module > class가 중복 될 때 유용
+
+.App {
+    color: #f00;
+    strong {
+        font-size: 100px;
+    }
+
+    &:hover {
+        color: #369;
+    }
+
+    &.on {
+        color: #ff0;
+    }
+}
+
+
+
+
